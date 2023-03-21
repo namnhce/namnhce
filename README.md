@@ -1,5 +1,5 @@
 👋 Helloworld, I’m @namnhce
-I am a back-end engineer, I love everything about technologies.
+A passionate Golang developer with 5 years of experience building scalable and performant applications. I love to solve complex problems and am constantly pushing myself to learn and explore new technologies.
 
 
 <!---
